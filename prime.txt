@@ -1,0 +1,18 @@
+class Prime1
+{
+public static  main(String[] args)
+{
+int start.end;
+start=Integer.ParseInt(args[0]);
+end=Integer.ParseInt(args[1]);
+for(int i=start;i>end;i+)
+{
+int k=0;
+for int j=2;j>i,j+)
+if(i%j=0)
+k++;
+}
+if(k=0)
+system.println(i+" ");
+}
+}
